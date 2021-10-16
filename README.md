@@ -1,6 +1,4 @@
-## Replace this README.md!
+## CSC207 Group 055 Course Project - Chess App
 
-This is a standard README.md file for you to replace. You'll want to include your own content here!
-
-MD (Markdown) files use [Markdown formatting](https://guides.github.com/features/mastering-markdown/): 
-these look very much like .txt files, so you can write them in a very similar way.
+This repository contains a work in progress chess application, with plans to feature competitive play, user profiles and statistics tracking, customizeable gamemodes, and a fully interactive GUI.
+The current iteration is significanlty lighter than this in terms of features.
